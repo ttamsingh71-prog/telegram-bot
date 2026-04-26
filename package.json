@@ -5,11 +5,11 @@
     "mongoose": "^9.5.0",
     "node-telegram-bot-api": "^0.67.0"
   },
-  "name": "hackbot",
+  "name": "my-bot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
