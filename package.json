@@ -1,5 +1,26 @@
 {
   "dependencies": {
-    "mongoose": "^9.3.3"
-  }
+    "axios": "^1.15.2",
+    "dotenv": "^17.4.2",
+    "mongoose": "^9.5.0",
+    "node-telegram-bot-api": "^0.67.0"
+  },
+  "name": "hackbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttamsingh71-prog/telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttamsingh71-prog/telegram-bot/issues"
+  },
+  "homepage": "https://github.com/ttamsingh71-prog/telegram-bot#readme",
+  "description": ""
 }
